@@ -1,10 +1,10 @@
 <!-- Light Mode -->
 <div align="center"> 
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-<img height=200 src="https://github-readme-stats.vercel.app/api?username=Charlene717&show_icons=true&theme=buefy&show_icons=true&count_private=true&line_height=28&hide_border=1&include_all_commits=true&card_width=450&role=OWNER,COLLABORATOR#gh-light-mode-only" alt="Charlene717's Language stats" />
+<img height=150 src="https://github-readme-stats.vercel.app/api?username=Charlene717&show_icons=true&theme=buefy&show_icons=true&count_private=true&line_height=28&hide_border=1&include_all_commits=true&card_width=450&role=OWNER,COLLABORATOR#gh-light-mode-only" alt="Charlene717's Language stats" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-<img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Charlene717&show_icons=true&theme=buefy&layout=compact&langs_count=10&hide_border=1&role=OWNER,COLLABORATOR&exclude_repo=github-readme-stats#gh-light-mode-only" alt="Charlene717's Github stats" />
+<img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Charlene717&show_icons=true&theme=buefy&layout=compact&langs_count=10&hide_border=1&role=OWNER,COLLABORATOR&exclude_repo=github-readme-stats#gh-light-mode-only" alt="Charlene717's Github stats" />
 </a>
 </div>
 
