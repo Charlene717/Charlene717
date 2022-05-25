@@ -2,7 +2,7 @@
 
 ![Charlene's GitHub stats](https://github-readme-stats.vercel.app/api?username=Charlene717&show_icons=true&theme=buefy)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Charlene717&layout=compact)](https://github.com/Charlene717/github-readme-stats)
 
-[<img src="https://github.com/Charlene717/CellCheck/blob/main/Figures/CellCheck2.png" width="120" />](https://github.com/Charlene717/CellCheck)</p>&thinsp;thin space</p>[<img src="https://github.com/Charlene717/GseaGo/blob/main/Figures/GSEAGO.jpg" width="120" &thinsp;thin space/>](https://github.com/Charlene717/GseaGo)</p>&thinsp;thin space</p>[<img src="https://github.com/Charlene717/Mg_Pitting_Corrosion_Simulation/blob/main/Figures/PitSim.jpg" width="120" />](https://github.com/Charlene717/Mg_Pitting_Corrosion_Simulation)</p>&thinsp;thin space</p>
+[<img src="https://github.com/Charlene717/CellCheck/blob/main/Figures/CellCheck2.png" width="120" />](https://github.com/Charlene717/CellCheck)</>&thinsp;thin space</>[<img src="https://github.com/Charlene717/GseaGo/blob/main/Figures/GSEAGO.jpg" width="120"/>](https://github.com/Charlene717/GseaGo)</>&thinsp;thin space</>[<img src="https://github.com/Charlene717/Mg_Pitting_Corrosion_Simulation/blob/main/Figures/PitSim.jpg" width="120" />](https://github.com/Charlene717/Mg_Pitting_Corrosion_Simulation)</>&thinsp;thin space</>
 
 
 <!--
