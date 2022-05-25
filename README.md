@@ -4,6 +4,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Charlene717&layout=compact)](https://github.com/Charlene717/github-readme-stats)
 
+[<img src="https://github.com/Charlene717/CellCheck/tree/main/Figures/GSEAGO.jpg" align="right" width="120" />](https://github.com/Charlene717/GseaGo)
+
 <!--
 ### Hi there 👋
 [![Charlene's GitHub stats](https://github-readme-stats.vercel.app/api?username=Charlene717)](https://github.com/Charlene/github-readme-stats)
