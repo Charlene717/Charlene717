@@ -1,6 +1,7 @@
 
 
-[![Charlene's GitHub stats](https://github-readme-stats.vercel.app/api?username=Charlene717&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Charlene717&layout=compact)](https://github.com/Charlene717/github-readme-stats)
+[![Charlene's GitHub stats](https://github-readme-stats.vercel.app/api?username=Charlene717&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Charlene717&layout=compact)](https://github.com/Charlene717/github-readme-stats)[https://github-readme-stats.vercel.app/api/wakatime?Charlene717={Wakatime_Charlene717}](https://github.com/Charlene717/github-readme-stats)
 
 [<img src="https://github.com/Charlene717/CellCheck/blob/main/Figures/CellCheck2.png" width="120" />](https://github.com/Charlene717/CellCheck)&emsp;[<img src="https://github.com/Charlene717/GseaGo/blob/main/Figures/GSEAGO.jpg" width="120"/>](https://github.com/Charlene717/GseaGo)&emsp;[<img src="https://github.com/Charlene717/Mg_Pitting_Corrosion_Simulation/blob/main/Figures/PitSim.jpg" width="120" />](https://github.com/Charlene717/Mg_Pitting_Corrosion_Simulation)&emsp;
 
