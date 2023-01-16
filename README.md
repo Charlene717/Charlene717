@@ -10,13 +10,6 @@
 | ------------- | ------------- |
 
 
-
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Charlene717&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Charlene717&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
-
-
-
-
 ## Important Repositories
 [<img src="https://github.com/Charlene717/CellCheck/blob/main/Figures/CellCheck.png" width="120" />](https://github.com/Charlene717/CellCheck)&emsp;[<img src="https://github.com/Charlene717/GseaGo/blob/main/Figures/GSEAGO.png" width="120"/>](https://github.com/Charlene717/GseaGo)&emsp;
 [<img src="https://github.com/Charlene717/GseaGoUI/blob/main/Fig/GSEAGOUI.png" width="120" />](https://github.com/Charlene717/GseaGoUI)&emsp;
