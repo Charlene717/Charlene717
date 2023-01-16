@@ -11,6 +11,8 @@
 
 
 
+| <a href="https://github.com/Charlene717/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Charlene717&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Charlene717's github stats" /></a> | <a href="https://github.com/Charlene717/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Charlene717&layout=compact&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 
 ## Important Repositories
