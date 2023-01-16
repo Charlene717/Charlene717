@@ -10,6 +10,10 @@
 | ------------- | ------------- |
 
 
+[![Charlene717's GitHub stats](https://github-readme-stats.vercel.app/api?username=Charlene717)](https://github.com/Charlene717/github-readme-stats)
+
+
+
 ## Important Repositories
 [<img src="https://github.com/Charlene717/CellCheck/blob/main/Figures/CellCheck.png" width="120" />](https://github.com/Charlene717/CellCheck)&emsp;[<img src="https://github.com/Charlene717/GseaGo/blob/main/Figures/GSEAGO.png" width="120"/>](https://github.com/Charlene717/GseaGo)&emsp;
 [<img src="https://github.com/Charlene717/GseaGoUI/blob/main/Fig/GSEAGOUI.png" width="120" />](https://github.com/Charlene717/GseaGoUI)&emsp;
