@@ -10,34 +10,43 @@
 <!-- ------------- | ------------- -->
 
 ## Charlene's Curated GPTs in GPT Store
-<table>
+<table style="width: 100%; text-align: center;">
   <tr>
-    <td style="text-align: center;">
-      <a href="https://chatgpt.com/g/g-kKJX5DNGr-scrna-tool-finder">
-        <img src="https://github.com/Charlene717/GPTs-in-GPT-Store/blob/main/LOGO/406a8b84-a969-4219-ab62-dbfcae00ac6b.png" alt="GPT Logo" width="100"/>
-      </a>
-      <br/>
-      <a href="https://chatgpt.com/g/g-kKJX5DNGr-scrna-tool-finder" style="text-decoration:none; font-size:18px;">
-        scRNA Tool Finder
-      </a>
+    <!-- scRNA Tool Finder -->
+    <td style="vertical-align: middle; text-align: center;">
+      <div style="display: inline-block;">
+        <a href="https://chatgpt.com/g/g-kKJX5DNGr-scrna-tool-finder">
+          <img src="https://github.com/Charlene717/GPTs-in-GPT-Store/blob/main/LOGO/406a8b84-a969-4219-ab62-dbfcae00ac6b.png" alt="GPT Logo" width="100"/>
+        </a>
+        <br/>
+        <a href="https://chatgpt.com/g/g-kKJX5DNGr-scrna-tool-finder" style="text-decoration:none; font-size:18px;">
+          scRNA Tool Finder
+        </a>
+      </div>
     </td>
-    <td style="text-align: center;">
-      <a href="https://chatgpt.com/g/g-gU2qvhSVL-r-language-assistant">
-        <img src="https://github.com/Charlene717/GPTs-in-GPT-Store/blob/main/LOGO/7ebc5304-ae1e-4912-871b-c089205161a5.png" alt="GPT Logo" width="100"/>
-      </a>
-      <br/>
-      <a href="https://chatgpt.com/g/g-gU2qvhSVL-r-language-assistant" style="text-decoration:none; font-size:18px;">
-        R Language Assistant
-      </a>
+    <!-- R Language Assistant -->
+    <td style="vertical-align: middle; text-align: center;">
+      <div style="display: inline-block;">
+        <a href="https://chatgpt.com/g/g-gU2qvhSVL-r-language-assistant">
+          <img src="https://github.com/Charlene717/GPTs-in-GPT-Store/blob/main/LOGO/7ebc5304-ae1e-4912-871b-c089205161a5.png" alt="GPT Logo" width="100"/>
+        </a>
+        <br/>
+        <a href="https://chatgpt.com/g/g-gU2qvhSVL-r-language-assistant" style="text-decoration:none; font-size:18px;">
+          R Language Assistant
+        </a>
+      </div>
     </td>
-    <td style="text-align: center;">
-      <a href="https://chatgpt.com/g/g-kTOSbGUHM-r-learning-helper">
-        <img src="https://github.com/Charlene717/GPTs-in-GPT-Store/blob/main/LOGO/af5bfe50-3eda-4e1f-b485-6eaefa53f98a.png" alt="GPT Logo" width="100"/>
-      </a>
-      <br/>
-      <a href="https://chatgpt.com/g/g-kTOSbGUHM-r-learning-helper" style="text-decoration:none; font-size:18px;">
-        R Learning Helper
-      </a>
+    <!-- R Learning Helper -->
+    <td style="vertical-align: middle; text-align: center;">
+      <div style="display: inline-block;">
+        <a href="https://chatgpt.com/g/g-kTOSbGUHM-r-learning-helper">
+          <img src="https://github.com/Charlene717/GPTs-in-GPT-Store/blob/main/LOGO/af5bfe50-3eda-4e1f-b485-6eaefa53f98a.png" alt="GPT Logo" width="100"/>
+        </a>
+        <br/>
+        <a href="https://chatgpt.com/g/g-kTOSbGUHM-r-learning-helper" style="text-decoration:none; font-size:18px;">
+          R Learning Helper
+        </a>
+      </div>
     </td>
   </tr>
 </table>
