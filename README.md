@@ -12,7 +12,7 @@
 
 
 ## Important Repositories
-[<img src="https://github.com/Charlene717/VICTORS_Paper_Results/blob/main/Figures/Logo.png" width="140" />](https://github.com/Charlene717/VICTOR)&emsp;[<img src="https://github.com/Charlene717/CellCheck/blob/main/Figures/CellCheck.png" width="120" />](https://github.com/Charlene717/CellCheck)&emsp;[<img src="https://github.com/Charlene717/GseaGo/blob/main/Figures/GSEAGO.png" width="120"/>](https://github.com/Charlene717/GseaGo)&emsp;
+[<img src="https://github.com/Charlene717/VICTORS_Paper_Results/blob/main/Figures/Logo_VICTOR.png" width="120" />](https://github.com/Charlene717/VICTOR)&emsp;[<img src="https://github.com/Charlene717/CellCheck/blob/main/Figures/CellCheck.png" width="120" />](https://github.com/Charlene717/CellCheck)&emsp;[<img src="https://github.com/Charlene717/GseaGo/blob/main/Figures/GSEAGO.png" width="120"/>](https://github.com/Charlene717/GseaGo)&emsp;
 [<img src="https://github.com/Charlene717/GseaGoUI/blob/main/Fig/GSEAGOUI.png" width="120" />](https://github.com/Charlene717/GseaGoUI)&emsp;
 [<img src="https://github.com/Charlene717/Mg_Pitting_Corrosion_Simulation/blob/main/Figures/PitSim.png" width="120" />](https://github.com/Charlene717/Mg_Pitting_Corrosion_Simulation)&emsp;
 
