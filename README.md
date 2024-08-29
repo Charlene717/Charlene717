@@ -10,7 +10,7 @@
 <!-- ------------- | ------------- -->
 
 ## Charlene's Curated GPTs in GPT Store
-<div style="display: flex; justify-content: center; align-items: center;">
+<div style="display: flex; align-items: center; justify-content: center;">
 
   <!-- scRNA Tool Finder -->
   <div style="text-align: center; margin-right: 20px;">
