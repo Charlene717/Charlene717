@@ -9,6 +9,14 @@
 <!-- <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Charlene717&show_icons=true&theme=outrun&layout=compact&langs_count=10&hide_border=1&role=OWNER,COLLABORATOR&exclude_repo=github-readme-stats&theme=dark&bg_color=000000#gh-dark-mode-only" alt="Charlene717's Github stats" /></a> -->
 <!-- ------------- | ------------- -->
 
+## Charlene's Curated GPTs in GPT Store
+<a href="https://chatgpt.com/g/g-kKJX5DNGr-scrna-tool-finder">
+  <img src="https://github.com/Charlene717/GPTs-in-GPT-Store/blob/main/LOGO/406a8b84-a969-4219-ab62-dbfcae00ac6b.png" alt="GPT Logo" width="100"/>
+</a>
+
+<a href="https://chatgpt.com/g/g-kKJX5DNGr-scrna-tool-finder" style="text-decoration:none;">
+  <h2>scRNA Tool Finder</h2>
+</a>
 
 
 ## Important Repositories
