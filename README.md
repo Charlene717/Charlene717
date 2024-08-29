@@ -10,30 +10,32 @@
 <!-- ------------- | ------------- -->
 
 ## Charlene's Curated GPTs in GPT Store
-<div style="display: flex; justify-content: center; align-items: center;">
+<div style="display: flex; justify-content: space-around; align-items: center; width: 100%;">
 
-  <div style="text-align: center; margin: 10px;">
+  <div style="flex: 1; text-align: center;">
     <a href="https://chatgpt.com/g/g-kKJX5DNGr-scrna-tool-finder">
-      <img src="https://github.com/Charlene717/GPTs-in-GPT-Store/blob/main/LOGO/406a8b84-a969-4219-ab62-dbfcae00ac6b.png" alt="GPT Logo" width="100"/>
+      <img src="https://github.com/Charlene717/GPTs-in-GPT-Store/blob/main/LOGO/406a8b84-a969-4219-ab62-dbfcae00ac6b.png" alt="scRNA Tool Finder Logo" width="100"/>
       <div style="margin-top: 10px;">scRNA Tool Finder</div>
     </a>
   </div>
 
-  <div style="text-align: center; margin: 10px;">
+  <div style="flex: 1; text-align: center;">
     <a href="https://chatgpt.com/g/g-gU2qvhSVL-r-language-assistant">
-      <img src="https://github.com/Charlene717/GPTs-in-GPT-Store/blob/main/LOGO/7ebc5304-ae1e-4912-871b-c089205161a5.png" alt="GPT Logo" width="100"/>
+      <img src="https://github.com/Charlene717/GPTs-in-GPT-Store/blob/main/LOGO/7ebc5304-ae1e-4912-871b-c089205161a5.png" alt="R Language Assistant Logo" width="100"/>
       <div style="margin-top: 10px;">R Language Assistant</div>
     </a>
   </div>
 
-  <div style="text-align: center; margin: 10px;">
+  <div style="flex: 1; text-align: center;">
     <a href="https://chatgpt.com/g/g-kTOSbGUHM-r-learning-helper">
-      <img src="https://github.com/Charlene717/GPTs-in-GPT-Store/blob/main/LOGO/af5bfe50-3eda-4e1f-b485-6eaefa53f98a.png" alt="GPT Logo" width="100"/>
+      <img src="https://github.com/Charlene717/GPTs-in-GPT-Store/blob/main/LOGO/af5bfe50-3eda-4e1f-b485-6eaefa53f98a.png" alt="R Learning Helper Logo" width="100"/>
       <div style="margin-top: 10px;">R Learning Helper</div>
     </a>
   </div>
 
 </div>
+
+
 
 
 
