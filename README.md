@@ -10,13 +10,40 @@
 <!-- ------------- | ------------- -->
 
 ## Charlene's Curated GPTs in GPT Store
-<a href="https://chatgpt.com/g/g-kKJX5DNGr-scrna-tool-finder">
-  <img src="https://github.com/Charlene717/GPTs-in-GPT-Store/blob/main/LOGO/406a8b84-a969-4219-ab62-dbfcae00ac6b.png" alt="GPT Logo" width="100"/>
-</a>
+<div style="display: flex; justify-content: center; align-items: center;">
 
-<a href="https://chatgpt.com/g/g-kKJX5DNGr-scrna-tool-finder" style="text-decoration:none;">
-  <p style="font-size:18px; margin: 0;">scRNA Tool Finder</p>
-</a>
+  <!-- scRNA Tool Finder -->
+  <div style="text-align: center; margin-right: 20px;">
+    <a href="https://chatgpt.com/g/g-kKJX5DNGr-scrna-tool-finder">
+      <img src="https://github.com/Charlene717/GPTs-in-GPT-Store/blob/main/LOGO/406a8b84-a969-4219-ab62-dbfcae00ac6b.png" alt="GPT Logo" width="100"/>
+    </a>
+    <a href="https://chatgpt.com/g/g-kKJX5DNGr-scrna-tool-finder" style="text-decoration:none;">
+      <p style="font-size:18px; margin: 0;">scRNA Tool Finder</p>
+    </a>
+  </div>
+
+  <!-- R Language Assistant -->
+  <div style="text-align: center; margin-right: 20px;">
+    <a href="https://chatgpt.com/g/g-gU2qvhSVL-r-language-assistant">
+      <img src="https://github.com/Charlene717/GPTs-in-GPT-Store/blob/main/LOGO/7ebc5304-ae1e-4912-871b-c089205161a5.png" alt="GPT Logo" width="100"/>
+    </a>
+    <a href="https://chatgpt.com/g/g-gU2qvhSVL-r-language-assistant" style="text-decoration:none;">
+      <p style="font-size:18px; margin: 0;">R Language Assistant</p>
+    </a>
+  </div>
+
+  <!-- R Learning Helper -->
+  <div style="text-align: center;">
+    <a href="https://chatgpt.com/g/g-kTOSbGUHM-r-learning-helper">
+      <img src="https://github.com/Charlene717/GPTs-in-GPT-Store/blob/main/LOGO/af5bfe50-3eda-4e1f-b485-6eaefa53f98a.png" alt="GPT Logo" width="100"/>
+    </a>
+    <a href="https://chatgpt.com/g/g-kTOSbGUHM-r-learning-helper" style="text-decoration:none;">
+      <p style="font-size:18px; margin: 0;">R Learning Helper</p>
+    </a>
+  </div>
+
+</div>
+
 
 
 ## Important Repositories
