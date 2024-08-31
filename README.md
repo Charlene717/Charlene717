@@ -12,6 +12,13 @@
 ## Charlene's Curated GPTs in GPT Store
 <table style="width:100%; text-align: center; margin: auto;">
   <tr>
+      <td style="vertical-align: middle;">
+      <a href="https://chatgpt.com/g/g-H75l4CCiG-scrna-tools-user">
+        <img src="https://github.com/Charlene717/GPTs-in-GPT-Store/blob/main/LOGO/856def3b-f892-4318-bd47-f617c26e1c3c.png" alt="scRNA Tools User Logo" width="100"/>
+        <br/>
+        <span style="margin-top: 10px; display: inline-block;">scRNA Tools User</span>
+      </a>
+    </td>
     <td style="vertical-align: middle;">
       <a href="https://chatgpt.com/g/g-kKJX5DNGr-scrna-tool-finder">
         <img src="https://github.com/Charlene717/GPTs-in-GPT-Store/blob/main/LOGO/406a8b84-a969-4219-ab62-dbfcae00ac6b.png" alt="scRNA Tool Finder Logo" width="100"/>
