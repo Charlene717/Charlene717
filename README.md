@@ -34,17 +34,17 @@
       </a>
     </td>
     <td style="vertical-align: middle;">
-      <a href="https://chatgpt.com/g/g-g2NWWrYLv-bioinformatics-tutor">
-        <img src="https://github.com/Charlene717/GPTs-in-GPT-Store/blob/main/LOGO/Bioinformatics%20Tutor%20LOGO.jpg" alt="Bioinformatics Tutor Logo" width="100"/>
-        <br/>
-        <span style="margin-top: 10px; display: inline-block;">Bioinformatics Tutor</span>
-      </a>
-    </td>
-    <td style="vertical-align: middle;">
       <a href="https://chatgpt.com/g/g-kTOSbGUHM-r-learning-helper">
         <img src="https://github.com/Charlene717/GPTs-in-GPT-Store/blob/main/LOGO/af5bfe50-3eda-4e1f-b485-6eaefa53f98a.png" alt="R Learning Helper Logo" width="100"/>
         <br/>
         <span style="margin-top: 10px; display: inline-block;">R Learning Helper</span>
+      </a>
+    </td>
+    <td style="vertical-align: middle;">
+      <a href="https://chatgpt.com/g/g-g2NWWrYLv-bioinformatics-tutor">
+        <img src="https://github.com/Charlene717/GPTs-in-GPT-Store/blob/main/LOGO/Bioinformatics%20Tutor%20LOGO.jpg" alt="Bioinformatics Tutor Logo" width="100"/>
+        <br/>
+        <span style="margin-top: 10px; display: inline-block;">Bioinformatics Tutor</span>
       </a>
     </td>
   </tr>
