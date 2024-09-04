@@ -20,10 +20,10 @@
       </a>
     </td>
     <td style="vertical-align: middle;">
-      <a href="https://chatgpt.com/g/g-kKJX5DNGr-scrna-tool-finder">
-        <img src="https://github.com/Charlene717/GPTs-in-GPT-Store/blob/main/LOGO/406a8b84-a969-4219-ab62-dbfcae00ac6b.png" alt="scRNA Tool Finder Logo" width="100"/>
+      <a href="https://chatgpt.com/g/g-kKJX5DNGr-scrna-tools-finder">
+        <img src="https://github.com/Charlene717/GPTs-in-GPT-Store/blob/main/LOGO/406a8b84-a969-4219-ab62-dbfcae00ac6b.png" alt="scRNA Tools Finder Logo" width="100"/>
         <br/>
-        <span style="margin-top: 10px; display: inline-block;">scRNA Tool Finder</span>
+        <span style="margin-top: 10px; display: inline-block;">scRNA Tools Finder</span>
       </a>
     </td>
     <td style="vertical-align: middle;">
