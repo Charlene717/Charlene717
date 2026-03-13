@@ -9,6 +9,25 @@
 <!-- <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Charlene717&show_icons=true&theme=outrun&layout=compact&langs_count=10&hide_border=1&role=OWNER,COLLABORATOR&exclude_repo=github-readme-stats&theme=dark&bg_color=000000#gh-dark-mode-only" alt="Charlene717's Github stats" /></a> -->
 <!-- ------------- | ------------- -->
 
+
+## Tutorials
+
+- 📘 **Interactive scRNA-seq Tutorial**  
+  https://github.com/Charlene717/scrna-interactive-tutorial-ch
+
+- 🧬 **Advanced scRNA-seq Analysis Tutorial**  
+  https://github.com/Charlene717/scRNA-seq_advanced_analysis_tutorial
+
+- 📊 **R Basic Tutorial**  
+  https://github.com/Charlene717/R_basic_tutorial
+
+- 📈 **Statistics Tutorial**  
+  https://github.com/Charlene717/stats_tutorial
+
+- 🐧 **Linux Basic Commands**  
+  https://github.com/Charlene717/Linux_Basic_Commands
+  
+
 ## Charlene's Curated GPTs in GPT Store
 <table style="width:100%; text-align: center; margin: auto;">
   <tr>
