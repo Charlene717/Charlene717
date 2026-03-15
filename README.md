@@ -13,7 +13,7 @@
 ## Tutorials
 
 - 📘 **Interactive scRNA-seq Tutorial**  
-  https://charlene717.github.io/scrna-interactive-tutorial-en/
+  https://charlene717.github.io/scrna-interactive-tutorial-en/<br>
   https://charlene717.github.io/scrna-interactive-tutorial-ch/
 
 - 🧬 **Advanced scRNA-seq Analysis Tutorial**  
