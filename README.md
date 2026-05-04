@@ -22,6 +22,10 @@
 - 📘 **Interactive Spatial Transcriptomics Tutorial**  
   https://charlene717.github.io/spatial-transcriptomics-interactive-tutorial/ 
  
+- 📘 **Interactive Biostats Tutorial**  
+  https://charlene717.github.io/biostats-interactive-tutorial/ 
+ 
+
 - 🧬 **scRNA-seq Analysis Tutorial**  
   https://github.com/Charlene717/scRNA-seq_analysis_tutorial
 
