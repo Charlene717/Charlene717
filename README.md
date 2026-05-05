@@ -25,6 +25,9 @@
 - 📘 **Interactive Biostats Tutorial**  
   https://charlene717.github.io/biostats-interactive-tutorial/ 
  
+- 📘 **Interactive WGS/WES Tutorial**  
+  https://charlene717.github.io/wgswes-bioinfo-interactive-tutorial/  
+ 
 
 - 🧬 **scRNA-seq Analysis Tutorial**  
   https://github.com/Charlene717/scRNA-seq_analysis_tutorial
