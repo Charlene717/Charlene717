@@ -27,6 +27,9 @@
  
 - 📘 **Interactive WGS/WES Tutorial**  
   https://charlene717.github.io/wgswes-bioinfo-interactive-tutorial/  
+
+- 📘 **Interactive Linux for Bioinformatics Tutorial**  
+  https://charlene717.github.io/linux-bioinfo-interactive-tutorial/  
  
 
 - 🧬 **scRNA-seq Analysis Tutorial**  
