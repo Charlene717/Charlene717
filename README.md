@@ -22,6 +22,9 @@
 - 📘 **Interactive Spatial Transcriptomics Tutorial**  
   https://charlene717.github.io/spatial-transcriptomics-interactive-tutorial/ 
  
+- 📘 **Interactive R Tutorial**  
+  https://charlene717.github.io/r-bioinformatics-interactive-tutorial/  
+ 
 - 📘 **Interactive Biostats Tutorial**  
   https://charlene717.github.io/biostats-interactive-tutorial/ 
  
