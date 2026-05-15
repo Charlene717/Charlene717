@@ -30,6 +30,10 @@
  
 - 📘 **Interactive Biostats Tutorial**  
   https://charlene717.github.io/biostats-interactive-tutorial/ 
+  
+- 📘 **Interactive Stat Inference Tutorial**  
+  https://charlene717.github.io/stat-inference-interactive-tutorial/  
+  
  
 - 📘 **Interactive WGS/WES Tutorial**  
   https://charlene717.github.io/wgswes-bioinfo-interactive-tutorial/  
