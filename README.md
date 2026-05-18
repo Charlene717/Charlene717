@@ -26,7 +26,7 @@
   https://charlene717.github.io/r-bioinformatics-interactive-tutorial/  
  
 - 📘 **Interactive python Tutorial**  
-  https://charlene717.github.io/python-bioinformatics-tutorial/ 
+  https://charlene717.github.io/python-bioinformatics-interactive-tutorial/ 
  
 - 📘 **Interactive Biostats Tutorial**  
   https://charlene717.github.io/biostats-interactive-tutorial/ 
