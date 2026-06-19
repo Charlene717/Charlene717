@@ -18,8 +18,7 @@ A bilingual, browser-based curriculum — from foundation tools all the way to o
   <strong>📚 45 modules · 🧭 9 tracks (A–I) · 🌐 EN / 繁中 · 📄 MIT</strong>
 </p>
 
-**➡️ Live portal:** <a href="https://charlene717.github.io/bioinfo-interactive-tutorial-portal/" target="_blank">charlene717.github.io/bioinfo-interactive-tutorial-portal ↗</a><br/>
-**🛠️ Source:** <a href="https://github.com/Charlene717/bioinfo-interactive-tutorial-portal" target="_blank">github.com/Charlene717/bioinfo-interactive-tutorial-portal ↗</a>
+**➡️ Live portal:** <a href="https://charlene717.github.io/bioinfo-interactive-tutorial-portal/" target="_blank">charlene717.github.io/bioinfo-interactive-tutorial-portal ↗</a>
 
 <h3 align="center">Featured starting points</h3>
 
@@ -131,7 +130,8 @@ A bilingual, browser-based curriculum — from foundation tools all the way to o
 
 Independent open-source teaching and research at the intersection of **bioinformatics × education × AI**. Every tutorial module is cross-checked against current peer-reviewed literature and ships with DOI-resolved citations.
 
-- 🌐 Tutorials portal: [bioinfo-interactive-tutorial-portal](https://charlene717.github.io/bioinfo-interactive-tutorial-portal/)
+- 🎓 Google Scholar: [profile](https://reurl.cc/QERzzb)
+- 🆔 ORCID: [0000-0003-0977-8743](https://orcid.org/0000-0003-0977-8743)
 - 💬 Feedback: open an issue on any repository
 - 📄 License: MIT (free for academic and commercial use with attribution)
 
