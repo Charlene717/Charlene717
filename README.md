@@ -46,6 +46,24 @@ A bilingual, browser-based curriculum — from foundation tools all the way to o
 
 ---
 
+<h2 align="center">📱 Learning Apps</h2>
+
+<div align="center">
+
+<table>
+  <thead>
+    <tr><th></th><th>App</th><th>Link</th></tr>
+  </thead>
+  <tbody>
+    <tr><td align="center">🧬</td><td><strong>Bioinformatics Learning App</strong></td><td><a href="https://charlene717.github.io/bioinformatics-learning-app/">bioinformatics-learning-app</a></td></tr>
+    <tr><td align="center">📊</td><td><strong>Biostat Learning App</strong></td><td><a href="https://charlene717.github.io/biostat-learning-app/">biostat-learning-app</a></td></tr>
+  </tbody>
+</table>
+
+</div>
+
+---
+
 <h2 align="center">🧬 Research Tools &amp; Repositories</h2>
 
 <div align="center">
