@@ -1,45 +1,43 @@
 <h1 align="center">Hi, I'm Charlene 👋</h1>
 
 <p align="center">
-  <em>Bioinformatics researcher &amp; educator · 生資研究與教學</em>
+  <em>Bioinformatics researcher &amp; educator</em>
 </p>
 
 <p align="center">
-  <strong>Read life in the sequence, see the future in the data</strong><br/>
-  <strong>在序列裡讀懂生命，在資料裡看見未來</strong>
+  <strong>Read life in the sequence, see the future in the data</strong>
 </p>
 
 ---
 
-## 🎓 Bioinformatics Interactive Tutorials · 生資互動式教學系列
+## 🎓 Bioinformatics Interactive Tutorials
 
 A bilingual, browser-based curriculum — from foundation tools all the way to omics, AI, and research practice.
-一套雙語、瀏覽器即開即用的生資課程地圖，從工具與基礎一路走到組學、AI 與研究實務。
 
 <p>
   <strong>📚 45 modules · 🧭 9 tracks (A–I) · 🌐 EN / 繁中 · 📄 MIT</strong>
 </p>
 
-**➡️ Live portal · 線上入口：** <a href="https://charlene717.github.io/bioinfo-interactive-tutorial-portal/" target="_blank">charlene717.github.io/bioinfo-interactive-tutorial-portal ↗</a>
-**🛠️ Source · 原始碼：** <a href="https://github.com/Charlene717/bioinfo-interactive-tutorial-portal" target="_blank">github.com/Charlene717/bioinfo-interactive-tutorial-portal ↗</a>
+**➡️ Live portal:** <a href="https://charlene717.github.io/bioinfo-interactive-tutorial-portal/" target="_blank">charlene717.github.io/bioinfo-interactive-tutorial-portal ↗</a>
+**🛠️ Source:** <a href="https://github.com/Charlene717/bioinfo-interactive-tutorial-portal" target="_blank">github.com/Charlene717/bioinfo-interactive-tutorial-portal ↗</a>
 
-### Featured starting points · 精選入門模組
+### Featured starting points
 
-| | Module · 模組 | Link |
+| | Module | Link |
 |---|---|---|
-| 🧬 | **Single-Cell RNA-seq** · 單細胞轉錄組 | [scrna-interactive-tutorial](https://charlene717.github.io/scrna-interactive-tutorial/) |
-| 🔬 | **Spatial Transcriptomics** · 空間轉錄體 | [spatial-transcriptomics-interactive-tutorial](https://charlene717.github.io/spatial-transcriptomics-interactive-tutorial/) |
-| 📊 | **Biostatistics** · 生物統計 | [biostats-interactive-tutorial](https://charlene717.github.io/biostats-interactive-tutorial/) |
-| 🤖 | **AI Agents** · AI 代理人 | [ai-agents-interactive-tutorial](https://charlene717.github.io/ai-agents-interactive-tutorial/) |
-| 🐧 | **Linux for Bioinformatics** · 生資 Linux | [linux-bioinfo-interactive-tutorial](https://charlene717.github.io/linux-bioinfo-interactive-tutorial/) |
-| 📈 | **R for Bioinformatics** · 生資 R | [r-bioinformatics-interactive-tutorial](https://charlene717.github.io/r-bioinformatics-interactive-tutorial/) |
-| 🧠 | **Single-Cell RNA-seq Advanced Math** · 單細胞轉錄組進階數學 | [scrna-advanced-math](https://charlene717.github.io/scrna-advanced-math/) |
+| 🧬 | **Single-Cell RNA-seq** | [scrna-interactive-tutorial](https://charlene717.github.io/scrna-interactive-tutorial/) |
+| 🔬 | **Spatial Transcriptomics** | [spatial-transcriptomics-interactive-tutorial](https://charlene717.github.io/spatial-transcriptomics-interactive-tutorial/) |
+| 📊 | **Biostatistics** | [biostats-interactive-tutorial](https://charlene717.github.io/biostats-interactive-tutorial/) |
+| 🤖 | **AI Agents** | [ai-agents-interactive-tutorial](https://charlene717.github.io/ai-agents-interactive-tutorial/) |
+| 🐧 | **Linux for Bioinformatics** | [linux-bioinfo-interactive-tutorial](https://charlene717.github.io/linux-bioinfo-interactive-tutorial/) |
+| 📈 | **R for Bioinformatics** | [r-bioinformatics-interactive-tutorial](https://charlene717.github.io/r-bioinformatics-interactive-tutorial/) |
+| 🧠 | **Single-Cell RNA-seq Advanced Math** | [scrna-advanced-math](https://charlene717.github.io/scrna-advanced-math/) |
 
 <sub>The portal organizes all 45 modules into nine tracks (Foundation Tools → CS → Bio → Math/Stats → Bioinfo Core → Omics → ML/DL → Advanced AI → Research). Pick any track, or follow the suggested learning path.</sub>
 
 ---
 
-## 🧬 Research Tools & Repositories · 研究工具
+## 🧬 Research Tools & Repositories
 
 <table>
 <tr>
@@ -74,11 +72,11 @@ A bilingual, browser-based curriculum — from foundation tools all the way to o
 </tr>
 </table>
 
-<!-- Verify the one-line descriptions match how you'd like each tool described. 請確認上面四個工具的一句話介紹是否符合你想要的描述。 -->
+<!-- Verify the one-line descriptions match how you'd like each tool described. -->
 
 ---
 
-## 🤖 Curated GPTs · 精選 GPTs
+## 🤖 Curated GPTs
 
 <table>
 <tr>
@@ -111,29 +109,12 @@ A bilingual, browser-based curriculum — from foundation tools all the way to o
 
 ---
 
-## 📊 Tech stack
-
-<p align="left">
-  <!-- Light mode -->
-  <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Charlene717&layout=compact&langs_count=10&hide_border=1&theme=buefy&role=OWNER,COLLABORATOR&exclude_repo=github-readme-stats#gh-light-mode-only" alt="Top languages" />
-  </a>
-  <!-- Dark mode -->
-  <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Charlene717&layout=compact&langs_count=10&hide_border=1&theme=outrun&bg_color=000000&role=OWNER,COLLABORATOR&exclude_repo=github-readme-stats#gh-dark-mode-only" alt="Top languages" />
-  </a>
-</p>
-
----
-
-## 📫 About · 關於
+## 📫 About
 
 Independent open-source teaching and research at the intersection of **bioinformatics × education × AI**. Every tutorial module is cross-checked against current peer-reviewed literature and ships with DOI-resolved citations.
 
-獨立開源的教學與研究，專注於 **生資 × 教育 × AI** 的交集。每門教學模組都與目前同儕審閱文獻交叉比對，並附 DOI 引用。
+- 🌐 Tutorials portal: [bioinfo-interactive-tutorial-portal](https://charlene717.github.io/bioinfo-interactive-tutorial-portal/)
+- 💬 Feedback: open an issue on any repository
+- 📄 License: MIT (free for academic and commercial use with attribution)
 
-- 🌐 Tutorials portal · 教學入口：[bioinfo-interactive-tutorial-portal](https://charlene717.github.io/bioinfo-interactive-tutorial-portal/)
-- 💬 Feedback · 回饋：open an issue on any repository · 歡迎到任一 repo 開 Issue
-- 📄 License · 授權：MIT (free for academic and commercial use with attribution)
-
-<sub><em>Last updated · 最後更新：2026-05</em></sub>
+<sub><em>Last updated: 2026-05</em></sub>
