@@ -10,7 +10,7 @@
 
 ---
 
-## 🎓 Bioinformatics Interactive Tutorials
+<h2 align="center">🎓 Bioinformatics Interactive Tutorials</h2>
 
 A bilingual, browser-based curriculum — from foundation tools all the way to omics, AI, and research practice.
 
@@ -21,23 +21,34 @@ A bilingual, browser-based curriculum — from foundation tools all the way to o
 **➡️ Live portal:** <a href="https://charlene717.github.io/bioinfo-interactive-tutorial-portal/" target="_blank">charlene717.github.io/bioinfo-interactive-tutorial-portal ↗</a><br/>
 **🛠️ Source:** <a href="https://github.com/Charlene717/bioinfo-interactive-tutorial-portal" target="_blank">github.com/Charlene717/bioinfo-interactive-tutorial-portal ↗</a>
 
-### Featured starting points
+<h3 align="center">Featured starting points</h3>
 
-| | Module | Link |
-|---|---|---|
-| 🧬 | **Single-Cell RNA-seq** | [scrna-interactive-tutorial](https://charlene717.github.io/scrna-interactive-tutorial/) |
-| 🔬 | **Spatial Transcriptomics** | [spatial-transcriptomics-interactive-tutorial](https://charlene717.github.io/spatial-transcriptomics-interactive-tutorial/) |
-| 📊 | **Biostatistics** | [biostats-interactive-tutorial](https://charlene717.github.io/biostats-interactive-tutorial/) |
-| 🤖 | **AI Agents** | [ai-agents-interactive-tutorial](https://charlene717.github.io/ai-agents-interactive-tutorial/) |
-| 🐧 | **Linux for Bioinformatics** | [linux-bioinfo-interactive-tutorial](https://charlene717.github.io/linux-bioinfo-interactive-tutorial/) |
-| 📈 | **R for Bioinformatics** | [r-bioinformatics-interactive-tutorial](https://charlene717.github.io/r-bioinformatics-interactive-tutorial/) |
-| 🧠 | **Single-Cell RNA-seq Advanced Math** | [scrna-advanced-math](https://charlene717.github.io/scrna-advanced-math/) |
+<div align="center">
+
+<table>
+  <thead>
+    <tr><th></th><th>Module</th><th>Link</th></tr>
+  </thead>
+  <tbody>
+    <tr><td align="center">🧬</td><td><strong>Single-Cell RNA-seq</strong></td><td><a href="https://charlene717.github.io/scrna-interactive-tutorial/">scrna-interactive-tutorial</a></td></tr>
+    <tr><td align="center">🔬</td><td><strong>Spatial Transcriptomics</strong></td><td><a href="https://charlene717.github.io/spatial-transcriptomics-interactive-tutorial/">spatial-transcriptomics-interactive-tutorial</a></td></tr>
+    <tr><td align="center">📊</td><td><strong>Biostatistics</strong></td><td><a href="https://charlene717.github.io/biostats-interactive-tutorial/">biostats-interactive-tutorial</a></td></tr>
+    <tr><td align="center">🤖</td><td><strong>AI Agents</strong></td><td><a href="https://charlene717.github.io/ai-agents-interactive-tutorial/">ai-agents-interactive-tutorial</a></td></tr>
+    <tr><td align="center">🐧</td><td><strong>Linux for Bioinformatics</strong></td><td><a href="https://charlene717.github.io/linux-bioinfo-interactive-tutorial/">linux-bioinfo-interactive-tutorial</a></td></tr>
+    <tr><td align="center">📈</td><td><strong>R for Bioinformatics</strong></td><td><a href="https://charlene717.github.io/r-bioinformatics-interactive-tutorial/">r-bioinformatics-interactive-tutorial</a></td></tr>
+    <tr><td align="center">🧠</td><td><strong>Single-Cell RNA-seq Advanced Math</strong></td><td><a href="https://charlene717.github.io/scrna-advanced-math/">scrna-advanced-math</a></td></tr>
+  </tbody>
+</table>
 
 <sub>The portal organizes all 45 modules into nine tracks (Foundation Tools → CS → Bio → Math/Stats → Bioinfo Core → Omics → ML/DL → Advanced AI → Research). Pick any track, or follow the suggested learning path.</sub>
 
+</div>
+
 ---
 
-## 🧬 Research Tools & Repositories
+<h2 align="center">🧬 Research Tools &amp; Repositories</h2>
+
+<div align="center">
 
 <table>
 <tr>
@@ -72,11 +83,15 @@ A bilingual, browser-based curriculum — from foundation tools all the way to o
 </tr>
 </table>
 
+</div>
+
 <!-- Verify the one-line descriptions match how you'd like each tool described. -->
 
 ---
 
-## 🤖 Curated GPTs
+<h2 align="center">🤖 Curated GPTs</h2>
+
+<div align="center">
 
 <table>
 <tr>
@@ -107,9 +122,11 @@ A bilingual, browser-based curriculum — from foundation tools all the way to o
 </tr>
 </table>
 
+</div>
+
 ---
 
-## 📫 About
+<h2 align="center">📫 About</h2>
 
 Independent open-source teaching and research at the intersection of **bioinformatics × education × AI**. Every tutorial module is cross-checked against current peer-reviewed literature and ships with DOI-resolved citations.
 
