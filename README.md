@@ -31,12 +31,13 @@ A bilingual, browser-based curriculum — from foundation tools all the way to o
   </thead>
   <tbody>
     <tr><td align="center">🧬</td><td><strong>Single-Cell RNA-seq</strong></td><td><a href="https://charlene717.github.io/scrna-interactive-tutorial/">scrna-interactive-tutorial</a></td></tr>
-    <tr><td align="center">🔬</td><td><strong>Spatial Transcriptomics</strong></td><td><a href="https://charlene717.github.io/spatial-transcriptomics-interactive-tutorial/">spatial-transcriptomics-interactive-tutorial</a></td></tr>
-    <tr><td align="center">📊</td><td><strong>Biostatistics</strong></td><td><a href="https://charlene717.github.io/biostats-interactive-tutorial/">biostats-interactive-tutorial</a></td></tr>
-    <tr><td align="center">🤖</td><td><strong>AI Agents</strong></td><td><a href="https://charlene717.github.io/ai-agents-interactive-tutorial/">ai-agents-interactive-tutorial</a></td></tr>
-    <tr><td align="center">🐧</td><td><strong>Linux for Bioinformatics</strong></td><td><a href="https://charlene717.github.io/linux-bioinfo-interactive-tutorial/">linux-bioinfo-interactive-tutorial</a></td></tr>
-    <tr><td align="center">📈</td><td><strong>R for Bioinformatics</strong></td><td><a href="https://charlene717.github.io/r-bioinformatics-interactive-tutorial/">r-bioinformatics-interactive-tutorial</a></td></tr>
     <tr><td align="center">🧠</td><td><strong>Single-Cell RNA-seq Advanced Math</strong></td><td><a href="https://charlene717.github.io/scrna-advanced-math/">scrna-advanced-math</a></td></tr>
+    <tr><td align="center">📈</td><td><strong>R for Bioinformatics</strong></td><td><a href="https://charlene717.github.io/r-bioinformatics-interactive-tutorial/">r-bioinformatics-interactive-tutorial</a></td></tr>
+    <tr><td align="center">🐙</td><td><strong>Git / GitHub for Bioinformatics</strong></td><td><a href="https://charlene717.github.io/git-interactive-tutorial/">git-interactive-tutorial</a></td></tr>
+    <tr><td align="center">🐧</td><td><strong>Linux for Bioinformatics</strong></td><td><a href="https://charlene717.github.io/linux-bioinfo-interactive-tutorial/">linux-bioinfo-interactive-tutorial</a></td></tr>
+    <tr><td align="center">📊</td><td><strong>Biostatistics</strong></td><td><a href="https://charlene717.github.io/biostats-interactive-tutorial/">biostats-interactive-tutorial</a></td></tr>
+    <tr><td align="center">🔬</td><td><strong>Spatial Transcriptomics</strong></td><td><a href="https://charlene717.github.io/spatial-transcriptomics-interactive-tutorial/">spatial-transcriptomics-interactive-tutorial</a></td></tr>
+    <tr><td align="center">🤖</td><td><strong>AI Agents</strong></td><td><a href="https://charlene717.github.io/ai-agents-interactive-tutorial/">ai-agents-interactive-tutorial</a></td></tr>
   </tbody>
 </table>
 
