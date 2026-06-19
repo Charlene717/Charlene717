@@ -18,7 +18,7 @@ A bilingual, browser-based curriculum — from foundation tools all the way to o
   <strong>📚 45 modules · 🧭 9 tracks (A–I) · 🌐 EN / 繁中 · 📄 MIT</strong>
 </p>
 
-**➡️ Live portal:** <a href="https://charlene717.github.io/bioinfo-interactive-tutorial-portal/" target="_blank">charlene717.github.io/bioinfo-interactive-tutorial-portal ↗</a>
+**➡️ Live portal:** <a href="https://charlene717.github.io/bioinfo-interactive-tutorial-portal/" target="_blank">charlene717.github.io/bioinfo-interactive-tutorial-portal ↗</a><br/>
 **🛠️ Source:** <a href="https://github.com/Charlene717/bioinfo-interactive-tutorial-portal" target="_blank">github.com/Charlene717/bioinfo-interactive-tutorial-portal ↗</a>
 
 ### Featured starting points
